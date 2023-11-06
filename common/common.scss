@@ -150,6 +150,23 @@ body.has-sidebar-page.has-full-page-chat #main-outlet-wrapper {
     margin: 0;
 }
 
+a {
+    color: #000000;
+}
+
 a:visited {
     color: #000000;
+}
+
+#list-area .top-lists h2 {
+    margin: 5px 0 5px;
+}
+
+.select-kit.dropdown-select-box.period-chooser .period-chooser-header h2.selected-name .date-section {
+    color: #000000;
+    margin: 6px;
+}
+
+.highlighted {
+    animation: none !important;
 }
