@@ -139,7 +139,7 @@ body.has-sidebar-page.has-full-page-chat #main-outlet-wrapper {
 }
 
 .d-header-icons .d-icon {
-    color: #ffffff;
+    color: var(--secondary);
 }
 
 .category-logo.aspect-image {
@@ -151,11 +151,11 @@ body.has-sidebar-page.has-full-page-chat #main-outlet-wrapper {
 }
 
 a {
-    color: #000000;
+    color: var(--primary);
 }
 
 a:visited {
-    color: #000000;
+    color: var(--primary);
 }
 
 #list-area .top-lists h2 {
@@ -163,7 +163,7 @@ a:visited {
 }
 
 .select-kit.dropdown-select-box.period-chooser .period-chooser-header h2.selected-name .date-section {
-    color: #000000;
+    color: var(--primary);
     margin: 6px;
 }
 
