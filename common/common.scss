@@ -204,3 +204,7 @@ body {
 .category-list tbody .latest {
     padding: 0 0 10px 0px;
 }
+
+.list-cell, .category-list td, .category-list th, .table-heading {
+    padding: 10px 5px;
+}
