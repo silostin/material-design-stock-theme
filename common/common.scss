@@ -171,40 +171,8 @@ a:visited {
     animation: none !important;
 }
 
-.category-list .featured-topic {
-    margin: 5px 10px 0 0;
-}
-
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
 
 body {
     font-family: 'IBM Plex Sans', sans-serif;
-}
-
-.category-list tbody .category h3 {
-    font-size: var(--font-up-1);
-}
-
-.categories-list .category .category-description {
-    margin-top: .2em;
-}
-
-.category-list .featured-topic:first-of-type {
-    margin-top: 12px;
-}
-
-.category-list th {
-    vertical-align: bottom;
-}
-
-.category-list .topics {
-    padding-right: 10px;
-}
-
-.category-list tbody .latest {
-    padding: 0 0 10px 0px;
-}
-
-.list-cell, .category-list td, .category-list th, .table-heading {
-    padding: 12px 5px;
 }

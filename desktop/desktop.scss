@@ -302,3 +302,35 @@
   box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2),
     0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
 }
+
+.category-list .featured-topic {
+    margin: 5px 10px 0 0;
+}
+
+.category-list tbody .category h3 {
+    font-size: var(--font-up-1);
+}
+
+.categories-list .category .category-description {
+    margin-top: .2em;
+}
+
+.category-list .featured-topic:first-of-type {
+    margin-top: 12px;
+}
+
+.category-list th {
+    vertical-align: bottom;
+}
+
+.category-list .topics {
+    padding-right: 10px;
+}
+
+.category-list tbody .latest {
+    padding: 0 0 10px 0px;
+}
+
+.list-cell, .category-list td, .category-list th, .table-heading {
+    padding: 12px 5px;
+}
